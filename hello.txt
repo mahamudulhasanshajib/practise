@@ -1,3 +1,0 @@
-hello
-hello from remote
-hello again from local machine
