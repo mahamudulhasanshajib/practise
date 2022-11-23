@@ -1,2 +1,1 @@
-This is a text file.
-Hi, I am form 30046 Branch.
+Hi, I am from 30046 Branch
